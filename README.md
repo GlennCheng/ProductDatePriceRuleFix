@@ -1,4 +1,4 @@
-# 修正於後台Marketing>Catalog Price Rule中使用日期作為條件時 無法woke的問題
+# 修正於後台Marketing>Catalog Price Rule中使用日期作為條件時 無法work的問題
 
 <br>
 
